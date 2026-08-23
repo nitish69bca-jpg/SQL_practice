@@ -1,1 +1,0 @@
-# SQL_zepto_data_analysis
